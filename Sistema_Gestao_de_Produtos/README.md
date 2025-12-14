@@ -21,11 +21,8 @@ Sistema desenvolvido em **Kotlin** para gerir produtos à venda numa loja, contr
 
 ---
 
-🔗 [Aceder ao projeto](Sistema_Gestao_de_Produtos)
-
----
-
 Autor: **Fábio Barros**
+
 
 
 
