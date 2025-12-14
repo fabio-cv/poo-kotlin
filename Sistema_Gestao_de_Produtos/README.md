@@ -6,7 +6,7 @@ Sistema desenvolvido em **Kotlin** para gerir produtos à venda numa loja, contr
 
 ## 📂 Funcionalidades
 
-- Adicionar movimentos a produtos (positivos = entrada, negativos = venda)
+- Adicionar movimentos a produtos
 - Calcular o valor total das vendas de um produto
 - Armazenar produtos em lista para gestão futura
 
@@ -26,3 +26,4 @@ Sistema desenvolvido em **Kotlin** para gerir produtos à venda numa loja, contr
 ---
 
 Autor: **Fábio Barros**
+
