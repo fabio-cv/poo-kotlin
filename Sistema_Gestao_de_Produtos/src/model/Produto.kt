@@ -1,3 +1,7 @@
+package model
+
+import enums.StatusProduto
+
 class Produto(
     var codigo: Int,
     var designacao: String,

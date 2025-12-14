@@ -1,3 +1,7 @@
+package model
+
+import enums.StatusProduto
+
 class Movimento(
     val data: String,
     val quantidadeMovimentada: Int,
