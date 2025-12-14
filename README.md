@@ -2,7 +2,7 @@
 
 Repositório dedicado a projetos desenvolvidos em **Kotlin**, com foco na aplicação prática dos conceitos de **Programação Orientada a Objetos (POO)**, como encapsulamento, herança, polimorfismo, composição e uso de interfaces.
 
-Este repositório serve como material de estudo, portfólio académico e base para projetos futuros.
+Este repositório serve como material de estudo.
 
 ---
 
