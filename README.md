@@ -47,10 +47,6 @@ Cada projeto contém o seu próprio README.md com descrição, estrutura e instr
 
 ---
 
-## 📚 Projetos futuros
-- Sistema Bancário
-- Sistema de Gestão de Vendas
-- Outros exemplos avançados de POO em Kotlin
 
 ---
 
